@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Ruby sign up application.
 
-Things you may want to cover:
+Allows a person to sign up using name and email. 
 
-* Ruby version
+The new user then gets placed along with the other users. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+All users can be updated, read, or deleted.
